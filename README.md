@@ -1,2 +1,8 @@
-# Netflix-Clone
- This Netflix Clone is a web application built using modern web technologies, replicating the interface and functionality of Netflix. It allows users to browse and explore a collection of movies and TV shows, showcasing an interactive and visually appealing UI. The app integrates real-time movie data using APIs, providing users with trailers, genres, and ratings, mimicking the streaming experience of Netflix.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
